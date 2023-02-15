@@ -31,8 +31,6 @@ let enchilada_count = 0;
 enchilada_value.innerHTML = enchilada_count;
 
 
-
-
 function increment_count(clicked_id) {
     if (clicked_id === 'mac-plus') {
         mac_count++;
